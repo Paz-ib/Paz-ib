@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi! I'm María Paz 👋
+
+## About Me
+I'm a Software Developer based in Argentina, passionate about building efficient and scalable solutions. I enjoy constantly learning new technologies.
+
+## Tech Stack & Tools
+* **Languages:** C#, TypeScript, JavaScript, SQL
+* **Frontend:** Angular (v12+)
+* **Backend:** .NET Core / Web API, Node.js
+* **Databases:** SQL Server / PostgreSQL (o la que uses más)
+* **Tools:** Git, GitHub, Postman, Entity Framework
+  
+## Featured Projects
+Currently working on:
+url-shortener-api: A robust API for link shortening.
+subscription-manager: A system for efficient subscription management.
+
+## Connect with me
+LinkedIn: [linkedin.com/in/mariapazib](https://www.linkedin.com/in/mariapazib)
+Email: [paz.mariaib@gmail.com](mailto:paz.mariaib@gmail.com)
 
 <!--
 **Paz-ib/Paz-ib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

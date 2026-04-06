@@ -5,7 +5,7 @@ I'm a Software Developer based in Argentina, passionate about building efficient
 
 ## Tech Stack & Tools
 * **Languages:** C#, TypeScript, JavaScript, SQL
-* **Frontend:** Angular (v12+)
+* **Frontend:** ReactJS
 * **Backend:** .NET Core / Web API, Node.js
 * **Databases:** SQL Server / PostgreSQL (o la que uses más)
 * **Tools:** Git, GitHub, Postman, Entity Framework
